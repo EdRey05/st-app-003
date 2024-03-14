@@ -1,0 +1,8 @@
+numpy
+pandas
+openpyxl
+matplotlib
+altair
+streamlit
+streamlit-searchbox
+lifelines
