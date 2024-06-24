@@ -4,5 +4,5 @@ openpyxl
 matplotlib
 altair
 streamlit
-streamlit-searchbox=0.1.6
-lifelines=0.27.7
+streamlit-searchbox==0.1.6
+lifelines==0.27.7
