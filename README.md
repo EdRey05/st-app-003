@@ -1,3 +1,7 @@
+<a href="https://codespaces.new/EdRey05/st-app-003?quickstart=1" target="_blank"> 
+  <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces">
+</a>
+
 # Demo of the app 003_KM_plotter V11
 
 How to use this app (see video below):
